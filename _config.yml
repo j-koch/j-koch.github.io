@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "James Koch"
   avatar           : "profile.png"
-  bio              : "PhD."
+  bio              : "Postdoctoral researcher in scientific machine learning and nonlinear dynamics in aerospace systems."
   location         : "Austin, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=wy4RgAEAAAAJ&hl=en"
-  email            :
+  email            : "jvkoch0@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
