@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "James Koch"
   avatar           : "profile.png"
-  bio              : "Postdoctoral researcher in scientific machine learning and nonlinear dynamics in aerospace systems."
+  bio              : "Applying concepts from scientific machine learning and nonlinear dynamics to aerospace systems."
   location         : "Austin, Texas"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -93,17 +93,17 @@ author:
   bitbucket        :
   codepen          :
   dribbble         :
-  flickr           : "https://www.flickr.com/people/150472009@N03/"
+  flickr           : "people/150472009@N03/"
   facebook         :
   foursquare       :
-  github           : "https://github.com/j-koch"
+  github           : "j-koch"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         :
-  orcid            : #"http://orcid.org/yourorcidurl"
+  orcid            : https://orcid.org/0000-0003-2787-9054
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
